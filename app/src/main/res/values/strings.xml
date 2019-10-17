@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Travel-Helper</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="checkList">checkList</string>
+    <string name="compass">compass</string>
+    <string name="currency">compass</string>
+    <string name="upcoming_weekend">compass</string>
+    <string name="weather">compass</string>
+    <string name="world_clock">compass</string>
+
+    <string name="empty_description">No description available.</string>
+
+    <!-- Checklist strings -->
+    <string name="text_checklist">Checklist</string>
+    <string name="enter_task_name">Enter task name</string>
+    <string name="menu_delete_completed">Delete ticked items</string>
+    <string name="delete_tasks">Are you sure you want to delete all completed tasks?</string>
+    <string name="undo">Undo</string>
+    <string name="deleted_task_message">Deleted all completed tasks</string>
+    <string name="ticked_items_count">%1$d Ticked items</string>
+
+    <!-- Weather Strings -->
+    <string name="humidity">%1$s humidity</string>
+    <string name="text_weather">Weather Forecast</string>
+    <string name="weather_forecast_message">Check weather forecast of the city you wish to travel to!</string>
+
+    <!-- Compass Strings -->
+    <string name="text_Compass">Compass</string>
+    <string name="compass_dial">Compass Dial</string>
+    <string name="compass_hands">Compass Hands</string>
+    <string name="compass_dialog_header">Info</string>
+    <string name="compass_dialog_description">Your mobile does not support Compass</string>
+    <string name="compass_dialog_confirm">OK</string>
+
+
+    <!-- Currency Convertor Strings -->
+    <string name="text_currency">Currency Converter</string>
+    <string name="search_currencies">Search currencies..</string>
+    <string name="output_0">0.0</string>
+    <string name="convert">Convert</string>
+    <string name="sample_timezone">Asia/Kolkata</string>
+
+    <!-- Upcoming weekends Strings -->
+    <string name="upcoming_long_weekends">Upcoming long weekends</string>
+    <string name="upcoming_long_weekends_no_items">There are no upcoming events</string>
+
+    <!-- World Clock Strings -->
+    <string name="text_clock">World Clock</string>
+    <string name="select_timezone">Select Timezone</string>
+    <string name="search_timezone">Search Timezone..</string>
+
+    <string name="sign_out">Sign out</string>
+
+    <string name="default_status">Write something about yourself…</string>
+
+</resources>
